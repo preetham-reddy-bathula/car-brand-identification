@@ -1,0 +1,40 @@
+body {
+  background-image: url(back.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.login {
+  position: absolute;
+  left: 5%;
+  top: 10%;
+  right: 20%;
+}
+
+.cau {
+  color: rgb(165, 179, 201);
+}
+
+.prev {
+  display: block;
+  width: 100%;
+}
+
+.h1 {
+  color: rgb(182, 191, 241);
+}
+
+.h3 {
+  color: rgb(191, 206, 231);
+}
+
+.result {
+  color: rgb(242, 233, 250);
+}
+
+.watermark {
+  color: rgb(233, 229, 229);
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
